@@ -1,6 +1,6 @@
 package org.chessco.Piece;
 
-public enum Colors {
+public enum PieceColors {
     white,
     black
 }

@@ -13,7 +13,7 @@ import java.util.ArrayList;
 @Getter
 @Setter
 public class Piece {
-    private Colors color ;
-    private String name ;
+    private PieceColors color ;
+    private PieceTypes pieceTypes ;
     private ArrayList<Moves> moves ;
 }
